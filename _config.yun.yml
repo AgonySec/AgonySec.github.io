@@ -1,0 +1,101 @@
+banner:
+  enable: true
+  title: 踏着梦走过时光
+  border: true
+  cloud:
+    enable: true
+    color: black
+  go_down:
+    enable: true
+    icon: ri:arrow-down-s-line
+
+notice:
+  enable: true
+  content: 欢迎光临我的博客
+bg_image:
+  enable: true
+  url: /images/light.jpg
+  dark: /images/banner.jpg
+  # blur: 10px # 设置背景模糊程度
+  # opacity: 0.6
+
+medium_zoom: true
+
+avatar:
+  enable: true
+  url: /images/AgonySec.jpg
+  rounded: true
+  opacity: 1
+  mickey_mouse: false
+  status:
+    enable: true
+    emoji: 😭
+    message: 悟已往之不谏，知来者之可追。
+
+sidebar:
+  # bg_image: ### 
+  bg_position: bottom 3rem center
+  tagcloud:
+    enable: false
+    amount: 20
+
+social:
+  - name: GitHub
+    link: https://github.com/AgonySec
+    icon: ri:github-line
+    color: '#181717'
+  - name: E-Mail
+    link: mailto:chenyuanhang2022@outlook.com
+    icon: ri:mail-line
+    color: '#8E71C1'
+  # - name: 微博
+  #   link: #
+  #   icon: ri:weibo-line
+  #   color: '#E6162D'
+  # - name: 豆瓣
+  #   link: #
+  #   icon: ri:douban-line
+  #   color: '#007722'
+  # - name: 网易云音乐
+  #   link: https://music.163.com/#/user/home?id=1485292158
+  #   icon: ri:netease-cloud-music-line
+  #   color: '#C10D0C'
+  # - name: 知乎
+  #   link: https://www.zhihu.com/people/yemengstar
+  #   icon: ri:zhihu-line
+  #   color: '#0084FF'
+  # - name: 哔哩哔哩
+  #   link: https://space.bilibili.com/1951763981
+  #   icon: ri:bilibili-line
+  #   color: '#FF8EB3'
+  # - name: 微信公众号
+  #   link: #
+  #   icon: ri:wechat-2-line
+  #   color: '#1AAD19'
+
+footer:
+  since: 2024 # 起始年份
+  # icon:
+  #   name: ri:cloud-line
+  #   animated: true
+  #   color: '#0078E7'
+  #   url: 你的链接
+  #   title: 自拟
+  powered:
+    enable: false # 是否显示主题名称
+  # beian:
+  #   enable: true # 是否显示备案
+  #   # ICP备案
+  #   icp: 苏ICP备xxxxxxxxxx号
+  #   # 公安备案
+  #   gongan:
+  #     enable: true
+  #     text: 苏公网安备XXXXXXXX号
+  #     id: XXXXXXXX
+ 
+  live_time: # 运行时间
+    enable: true
+    prefix: 感谢陪伴
+    suffix: (●'◡'●)
+    start_time: '2024-10-02T00:00:00' # 开始时间
+
