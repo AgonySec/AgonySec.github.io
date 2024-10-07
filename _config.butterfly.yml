@@ -298,6 +298,120 @@ newest_comments:
   storage: 10 # unit: mins, save data to localStorage
   avatar: true
 
+comments:
+  # Up to two comments system, the first will be shown as default
+  # Choose: Disqus/Disqusjs/Livere/Gitalk/Valine/Waline/Utterances/Facebook Comments/Twikoo/Giscus/Remark42/Artalk
+  use: valine # Valine,Disqus
+  text: true # Display the comment name next to the button
+  # lazyload: The comment system will be load when comment element enters the browser's viewport.
+  # If you set it to true, the comment count will be invalid
+  lazyload: false
+  count: false # Display comment count in post's top_img
+  card_post_count: false # Display comment count in Home Page
+
+
+
+# disqus
+# https://disqus.com/
+disqus:
+  shortname:
+  apikey: # For newest comments widget
+
+# Alternative Disqus - Render comments with Disqus API
+# DisqusJS 評論系統，可以實現在網路審查地區載入 Disqus 評論列表，兼容原版
+# https://github.com/SukkaW/DisqusJS
+disqusjs:
+  shortname:
+  apikey:
+  option:
+
+# livere (來必力)
+# https://www.livere.com/
+livere:
+  uid:
+
+# gitalk
+# https://github.com/gitalk/gitalk
+gitalk:
+  client_id:
+  client_secret:
+  repo:
+  owner:
+  admin:
+  option:
+
+# valine
+# https://valine.js.org
+valine:
+  appId: dfTp5QJY9SJ8GXDwwJYZoVFq-MdYXbMMI
+  appKey: XW7OgCDcO9QR6RVBWvpQY4tX
+  avatar: mp
+  serverURLs: https://dftp5qjy.api.lncldglobal.com 
+  bg:
+  visitor: true
+  option:
+
+# waline - A simple comment system with backend support fork from Valine
+# https://waline.js.org/
+waline:
+  serverURL: # Waline server address url
+  bg: # waline background
+  pageview: false
+  option:
+
+# utterances
+# https://utteranc.es/
+utterances:
+  repo:
+  # Issue Mapping: pathname/url/title/og:title
+  issue_term: pathname
+  # Theme: github-light/github-dark/github-dark-orange/icy-dark/dark-blue/photon-dark
+  light_theme: github-light
+  dark_theme: photon-dark
+
+# Facebook Comments Plugin
+# https://developers.facebook.com/docs/plugins/comments/
+facebook_comments:
+  app_id:
+  user_id: # optional
+  pageSize: 10 # The number of comments to show
+  order_by: social # social/time/reverse_time
+  lang: zh_TW # Language en_US/zh_CN/zh_TW and so on
+
+# Twikoo
+# https://github.com/imaegoo/twikoo
+twikoo:
+  envId:
+  region:
+  visitor: false
+  option:
+
+# Giscus
+# https://giscus.app/
+giscus:
+  repo:
+  repo_id:
+  category_id:
+  theme:
+    light: light
+    dark: dark
+  option:
+
+# Remark42
+# https://remark42.com/docs/configuration/frontend/
+remark42:
+  host: # Your Host URL
+  siteId: # Your Site ID
+  option:
+
+# Artalk
+# https://artalk.js.org/guide/frontend/config.html
+artalk:
+  server:
+  site:
+  visitor: false
+  option:
+
 # Bottom right button (右下角按鈕)
 # --------------------------------------
 

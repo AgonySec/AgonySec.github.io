@@ -1,27 +1,15 @@
 - class_name: 友情链接
-  class_desc: 那些年、那些朋友、那些回忆
+  class_desc: 如果要添加我为友链，请点右上角-关于
   link_list:
     - name: 博客园
       link: https://www.cnblogs.com/itchen-2002
       avatar: https://cdn.jsdelivr.net/gh/AgonySec/Picture/siyuan/AgonySec.jpg
-      descr: 我的博客园
+      descr: 之前发布的文章
     - name: lockly
       link: https://www.cnblogs.com/bktown
       avatar: https://cdn.jsdelivr.net/gh/AgonySec/Picture/siyuan/20241007103414.png
-      descr: lockly大佬的博客
-
-- class_name: 网站
-  class_desc: 推荐的网站
-  link_list:
-    - name: Youtube
-      link: https://www.youtube.com/
-      avatar: https://i.loli.net/2020/05/14/9ZkGg8v3azHJfM1.png
-      descr: 视频网站
-    - name: Weibo
-      link: https://www.weibo.com/
-      avatar: https://i.loli.net/2020/05/14/TLJBum386vcnI1P.png
-      descr: 中國最大社交分享平台
-    - name: Twitter
-      link: https://twitter.com/
-      avatar: https://i.loli.net/2020/05/14/5VyHPQqR6LWF39a.png
-      descr: 社交分享平台
+      descr: Extremely silent, extremely proud.|
+    - name: 张稳妥
+      link: https://544688.xyz/
+      avatar: https://544688.xyz/img/avatar_hu6936fded3bba0ae05641cbe55ab7a5dd_89957_300x0_resize_q75_box.jpg
+      descr: 学习知识，分享技术
