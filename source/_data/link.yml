@@ -1,14 +1,14 @@
 - class_name: 友情链接
-  class_desc: 那些年、那些朋友
+  class_desc: 那些年、那些朋友、那些回忆
   link_list:
     - name: 博客园
       link: https://www.cnblogs.com/itchen-2002
-      # avatar: https://d33wubrfki0l68.cloudfront.net/6657ba50e702d84afb32fe846bed54fba1a77add/827ae/logo.svg
+      avatar: https://cdn.jsdelivr.net/gh/AgonySec/Picture/siyuan/AgonySec.jpg
       descr: 我的博客园
     - name: lockly
       link: https://www.cnblogs.com/bktown
-      # avatar: https://d33wubrfki0l68.cloudfront.net/6657ba50e702d84afb32fe846bed54fba1a77add/827ae/logo.svg
-      descr: lockly的博客
+      avatar: https://cdn.jsdelivr.net/gh/AgonySec/Picture/siyuan/20241007103414.png
+      descr: lockly大佬的博客
 
 - class_name: 网站
   class_desc: 推荐的网站
@@ -16,7 +16,7 @@
     - name: Youtube
       link: https://www.youtube.com/
       avatar: https://i.loli.net/2020/05/14/9ZkGg8v3azHJfM1.png
-      descr: 視頻網站
+      descr: 视频网站
     - name: Weibo
       link: https://www.weibo.com/
       avatar: https://i.loli.net/2020/05/14/TLJBum386vcnI1P.png

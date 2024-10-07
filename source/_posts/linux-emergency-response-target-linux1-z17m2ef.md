@@ -12,6 +12,7 @@ tags:
 permalink: /post/linux-emergency-response-target-linux1-z17m2ef.html
 comments: true
 toc: true
+cover: https://cdn.jsdelivr.net/gh/AgonySec/Picture/siyuan/1f328ced5108c51f01d76964bedd7e59--3451917188.jpg
 ---
 
 # 介绍

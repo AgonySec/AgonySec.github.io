@@ -2,7 +2,7 @@
 title: Windows应急响应靶机 - Web2
 date: '2024-10-03 15:08:51'
 updated: '2024-10-07 10:18:05'
-excerpt: Windows应急响应靶机-web2 题解
+description: Windows应急响应靶机-web2 题解
 tags:
   - Windows
   - 分享
@@ -15,16 +15,8 @@ categories:
 permalink: /post/windows-emergency-response-target-web2-2ibdlc.html
 comments: true
 toc: true
+cover: https://cdn.jsdelivr.net/gh/AgonySec/Picture/siyuan/1fb652b75f7d9a40773798719a00dd01--782050166.jpg
 ---
-
-> * @介绍
-> * @解题
->
->   * @排查webshell
->   * @查看日志
->   * @寻找隐藏用户
->   * @追溯到攻击者遗留文件
-> * @总结
 
 # 介绍
 
