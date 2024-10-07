@@ -280,9 +280,9 @@ aside:
 # busuanzi count for PV / UV in site
 # 訪問人數
 busuanzi:
-  site_uv: true
-  site_pv: true
-  page_pv: true
+  site_uv: false
+  site_pv: false
+  page_pv: false
 
 # Time difference between publish date and now (網頁運行時間)
 # Formal: Month/Day/Year Time or Year/Month/Day Time
@@ -523,7 +523,7 @@ baidu_analytics: 2f7300d60b2fb8aa275e87f2240e6c79
 
 # # Google Analytics
 # # https://analytics.google.com/analytics/web/
-google_analytics: G-NK5WB58NSB
+# google_analytics: G-NK5WB58NSB
 
 # # Cloudflare Analytics
 # # https://www.cloudflare.com/zh-tw/web-analytics/
