@@ -292,7 +292,7 @@ runtimeshow:
 
 # Aside widget - Newest Comments
 newest_comments:
-  enable: false
+  enable: true
   sort_order: # Don't modify the setting unless you know how it works
   limit: 6
   storage: 10 # unit: mins, save data to localStorage
@@ -301,7 +301,7 @@ newest_comments:
 comments:
   # Up to two comments system, the first will be shown as default
   # Choose: Disqus/Disqusjs/Livere/Gitalk/Valine/Waline/Utterances/Facebook Comments/Twikoo/Giscus/Remark42/Artalk
-  use: valine # Valine,Disqus
+  use: waline # Valine,Disqus
   text: true # Display the comment name next to the button
   # lazyload: The comment system will be load when comment element enters the browser's viewport.
   # If you set it to true, the comment count will be invalid
@@ -354,9 +354,9 @@ valine:
 # waline - A simple comment system with backend support fork from Valine
 # https://waline.js.org/
 waline:
-  serverURL: # Waline server address url
+  serverURL: https://waline-test-ecru-zeta.vercel.app # Waline server address url
   bg: # waline background
-  pageview: false
+  pageview: true
   option:
 
 # utterances
@@ -518,12 +518,12 @@ addtoany:
 
 # Baidu Analytics
 # https://tongji.baidu.com/web/welcome/login
-baidu_analytics: https://hm.baidu.com/hm.js?2f7300d60b2fb8aa275e87f2240e6c79
+baidu_analytics: 2f7300d60b2fb8aa275e87f2240e6c79
 
 
 # # Google Analytics
 # # https://analytics.google.com/analytics/web/
-# google_analytics:
+google_analytics: G-NK5WB58NSB
 
 # # Cloudflare Analytics
 # # https://www.cloudflare.com/zh-tw/web-analytics/
