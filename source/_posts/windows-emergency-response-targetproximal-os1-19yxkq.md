@@ -2,7 +2,7 @@
 title: Windows应急响应靶机-近源OS1
 date: '2024-10-04 18:27:30'
 updated: '2024-10-09 14:35:01'
-excerpt: Windows应急响应靶机-近源OS1 题解
+description: Windows应急响应靶机-近源OS1 题解
 tags:
   - Windows
   - 分享
@@ -15,6 +15,7 @@ categories:
 permalink: /post/windows-emergency-response-targetproximal-os1-19yxkq.html
 comments: true
 toc: true
+cover: https://cdn.jsdelivr.net/gh/AgonySec/Picture/siyuan/image-20241009105855-x072lr9.png
 ---
 
 # 介绍

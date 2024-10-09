@@ -2,6 +2,7 @@
 title: Linux应急响应靶机 -Linux1
 date: '2024-10-03 14:06:28'
 updated: '2024-10-07 09:41:08'
+description: Linux应急响应靶机 -Linux1 题解
 tags:
   - 网络安全
   - 应急响应
@@ -9,6 +10,8 @@ tags:
   - 打靶
   - 教程
   - Linux
+categories:
+  - 网络安全
 permalink: /post/linux-emergency-response-target-linux1-z17m2ef.html
 comments: true
 toc: true
