@@ -2,6 +2,7 @@
 title: Windows应急响应靶机 - Web3
 date: '2024-10-04 13:15:06'
 updated: '2024-10-09 23:36:44'
+description: Windows应急响应靶机-web3 题解
 tags:
   - Windows
   - 分享
@@ -10,6 +11,8 @@ tags:
   - 教程
   - 网络安全
 permalink: /post/windows-emergency-response-target-web3-1motjj.html
+categories:
+  - 网络安全
 comments: true
 toc: true
 ---
