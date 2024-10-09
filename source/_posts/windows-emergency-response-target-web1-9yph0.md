@@ -1,3 +1,20 @@
+---
+title: Windows应急响应靶机 - Web1
+date: '2024-10-03 11:03:39'
+updated: '2024-10-09 15:04:28'
+description: Windows应急响应靶机 - Web1 题解
+tags:
+  - 教程
+  - 网络安全
+  - 应急响应
+  - 打靶
+  - Windows
+categories:
+  - 网络安全
+permalink: /post/windows-emergency-response-target-web1-9yph0.html
+comments: true
+toc: true
+---
 
 # 介绍
 
