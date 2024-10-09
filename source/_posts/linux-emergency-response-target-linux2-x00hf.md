@@ -1,4 +1,22 @@
-
+---
+title: Linux应急响应靶机 -Linux2
+date: '2024-10-03 19:29:10'
+updated: '2024-10-09 23:56:42'
+description: 前景需要：看监控的时候发现webshell告警，领导让你上机检查你可以救救安服仔吗！！
+tags:
+  - Linux
+  - 分享
+  - 应急响应
+  - 打靶
+  - 教程
+  - 网络安全
+categories:
+  - 网络安全
+permalink: /post/linux-emergency-response-target-linux2-x00hf.html
+cover: https://cdn.jsdelivr.net/gh/AgonySec/Picture/siyuan/image-20241009095806-4dety9p.png
+comments: true
+toc: true
+---
 # 介绍
 
 　　**题目地址：**

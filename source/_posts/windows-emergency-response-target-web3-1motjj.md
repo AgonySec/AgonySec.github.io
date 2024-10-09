@@ -15,9 +15,10 @@ categories:
   - 网络安全
 comments: true
 toc: true
+cover: https://cdn.jsdelivr.net/gh/AgonySec/Picture/siyuan/3d05c59d86ea52290cd9053919476cf8--2885164731-20241007102956-wx5j531.jpg
 ---
 
-![image](https://cdn.jsdelivr.net/gh/AgonySec/Picture/siyuan/3d05c59d86ea52290cd9053919476cf8--2885164731-20241007102956-wx5j531.jpg)
+
 
 # 介绍
 
