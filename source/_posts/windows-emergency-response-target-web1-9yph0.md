@@ -14,6 +14,7 @@ categories:
 permalink: /post/windows-emergency-response-target-web1-9yph0.html
 comments: true
 toc: true
+cover: https://cdn.jsdelivr.net/gh/AgonySec/Picture/siyuan/image-20241003131537-sxg887z.png
 ---
 
 # 介绍
